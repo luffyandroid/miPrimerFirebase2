@@ -11,7 +11,7 @@
         android:id="@+id/tvJugadores"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="TextView" />
+        android:text="si y no" />
 
     <ListView
         android:id="@+id/lvJugadores"
